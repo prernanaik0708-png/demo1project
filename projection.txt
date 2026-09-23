@@ -1,0 +1,3 @@
+string='software'
+string2n='siftware'
+print(sring2n[::-1])
